@@ -1,0 +1,20 @@
+C:\Users\Thimira\AppData\Local\Temporary Projects\serialEx1\bin\Debug\serialEx1.exe
+C:\Users\Thimira\AppData\Local\Temporary Projects\serialEx1\bin\Debug\serialEx1.pdb
+C:\Users\Thimira\AppData\Local\Temporary Projects\serialEx1\bin\Debug\serialEx1.xml
+C:\Users\Thimira\AppData\Local\Temporary Projects\serialEx1\obj\x86\Debug\serialEx1.Form1.resources
+C:\Users\Thimira\AppData\Local\Temporary Projects\serialEx1\obj\x86\Debug\serialEx1.Resources.resources
+C:\Users\Thimira\AppData\Local\Temporary Projects\serialEx1\obj\x86\Debug\serialEx1.vbproj.GenerateResource.Cache
+C:\Users\Thimira\AppData\Local\Temporary Projects\serialEx1\obj\x86\Debug\serialEx1.exe
+C:\Users\Thimira\AppData\Local\Temporary Projects\serialEx1\obj\x86\Debug\serialEx1.xml
+C:\Users\Thimira\AppData\Local\Temporary Projects\serialEx1\obj\x86\Debug\serialEx1.pdb
+C:\Users\Thimira\Documents\Visual Studio 2010\Projects\serialEx1\serialEx1\obj\x86\Debug\serialEx1.exe
+C:\Users\Thimira\Documents\Visual Studio 2010\Projects\serialEx1\serialEx1\obj\x86\Debug\serialEx1.xml
+C:\Users\Thimira\Documents\Visual Studio 2010\Projects\serialEx1\serialEx1\obj\x86\Debug\serialEx1.pdb
+C:\Users\Thimira\Documents\Visual Studio 2010\Projects\serialEx1\serialEx1\bin\Debug\serialEx1.exe
+C:\Users\Thimira\Documents\Visual Studio 2010\Projects\serialEx1\serialEx1\bin\Debug\serialEx1.pdb
+C:\Users\Thimira\Documents\Visual Studio 2010\Projects\serialEx1\serialEx1\bin\Debug\serialEx1.xml
+C:\Users\Thimira\Documents\Visual Studio 2010\Projects\serialEx1\serialEx1\obj\x86\Debug\serialEx1.Form1.resources
+C:\Users\Thimira\Documents\Visual Studio 2010\Projects\serialEx1\serialEx1\obj\x86\Debug\serialEx1.Resources.resources
+C:\Users\Thimira\Documents\Visual Studio 2010\Projects\serialEx1\serialEx1\obj\x86\Debug\serialEx1.vbproj.GenerateResource.Cache
+C:\Users\Thimira\Documents\Visual Studio 2010\Projects\serialEx1\serialEx1\obj\x86\Debug\serialEx1.CodeGen.resources
+C:\Users\Thimira\Documents\Visual Studio 2010\Projects\serialEx1\serialEx1\obj\x86\Debug\serialEx1.Main2.resources

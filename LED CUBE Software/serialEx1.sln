@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "serialEx1", "serialEx1\serialEx1.vbproj", "{EA93DD05-BA98-43ED-A926-165D04B030A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA93DD05-BA98-43ED-A926-165D04B030A4}.Debug|x86.ActiveCfg = Debug|x86
+		{EA93DD05-BA98-43ED-A926-165D04B030A4}.Debug|x86.Build.0 = Debug|x86
+		{EA93DD05-BA98-43ED-A926-165D04B030A4}.Release|x86.ActiveCfg = Release|x86
+		{EA93DD05-BA98-43ED-A926-165D04B030A4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
